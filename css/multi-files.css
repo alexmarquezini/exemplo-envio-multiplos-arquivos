@@ -1,0 +1,12 @@
+/**
+ * Author: Alex Marquezini
+ * Description: Pequena folha de estilo para gerenciado de 
+ * múltiplos arquivos
+ */
+ .file {
+    cursor: pointer;
+}
+
+.file:hover {
+    color: red;
+}
